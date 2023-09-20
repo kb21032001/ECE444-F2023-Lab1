@@ -10,3 +10,7 @@ Acknowledgement: this repo is a clone of https://github.com/miguelgrinberg/flask
 Example 2-1:
 
 ![Alt text](Screenshots/example_2_1.png)
+
+Example 2-2:
+
+![Alt text](Screenshots/example_2_2.png)
