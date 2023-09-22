@@ -14,3 +14,7 @@ Example 2-1:
 Example 2-2:
 
 ![Alt text](Screenshots/example_2_2.png)
+
+Activity 3:
+
+![Alt text](Screenshots/Activity_3.png)
